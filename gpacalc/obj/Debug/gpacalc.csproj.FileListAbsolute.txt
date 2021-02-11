@@ -1,0 +1,10 @@
+C:\Users\Yusuf Akçay\source\repos\gpacalc\bin\Debug\gpacalc.exe.config
+C:\Users\Yusuf Akçay\source\repos\gpacalc\bin\Debug\gpacalc.exe
+C:\Users\Yusuf Akçay\source\repos\gpacalc\bin\Debug\gpacalc.pdb
+C:\Users\Yusuf Akçay\source\repos\gpacalc\obj\Debug\gpacalc.Form1.resources
+C:\Users\Yusuf Akçay\source\repos\gpacalc\obj\Debug\gpacalc.Properties.Resources.resources
+C:\Users\Yusuf Akçay\source\repos\gpacalc\obj\Debug\gpacalc.csproj.GenerateResource.cache
+C:\Users\Yusuf Akçay\source\repos\gpacalc\obj\Debug\gpacalc.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf Akçay\source\repos\gpacalc\obj\Debug\gpacalc.exe
+C:\Users\Yusuf Akçay\source\repos\gpacalc\obj\Debug\gpacalc.pdb
+C:\Users\Yusuf Akçay\source\repos\gpacalc\obj\Debug\gpacalc.csprojAssemblyReference.cache

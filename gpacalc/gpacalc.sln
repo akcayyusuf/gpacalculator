@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gpacalc", "gpacalc.csproj", "{DE06CDE1-C289-4108-BB5B-750A64222AAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE06CDE1-C289-4108-BB5B-750A64222AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE06CDE1-C289-4108-BB5B-750A64222AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE06CDE1-C289-4108-BB5B-750A64222AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE06CDE1-C289-4108-BB5B-750A64222AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD4F862B-ADE2-4BE1-A874-7844F8761834}
+	EndGlobalSection
+EndGlobal
